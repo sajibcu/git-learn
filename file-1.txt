@@ -1,2 +1,1 @@
-file 1 updated
-file 1 updated after stash
+file 1 in main clone branch
